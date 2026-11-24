@@ -28,7 +28,7 @@ Building creative designs and functional digital experiences.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,ps,ai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,ps,ai,ad&theme=dark" />
 
 </div>
 
