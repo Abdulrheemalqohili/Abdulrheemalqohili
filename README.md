@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=180&section=header&text=ABDULRHEEM%20ALQOHILI&fontSize=35&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=DESIGN.%20CODE.%20CREATE.&descAlignY=60&descSize=18" width="100%"/>
 
-### 🎨 Graphic Designer | 💻 Web Developer
+###  Graphic Designer |  Web Developer
 
 Building creative designs and functional digital experiences.
 
@@ -14,17 +14,9 @@ Building creative designs and functional digital experiences.
 
 ---
 
-## 🟢 ABOUT ME
 
-- 🎨 Passionate about Graphic Design.
-- 💻 Interested in Web Development.
-- 🚀 Exploring creative digital solutions.
-- 🌱 Always learning and improving.
-- ⚡ Turning ideas into digital experiences.
 
----
-
-## 🛠️ TECHNOLOGIES & TOOLS
+ TECHNOLOGIES & TOOLS
 
 <div align="center">
 
@@ -48,7 +40,7 @@ Building creative designs and functional digital experiences.
 
 <div align="center">
 
-### 💚 DESIGN. CODE. CREATE.
+###  DESIGN. CODE. CREATE.
 
 *Creative Mind | Digital Creator | Web Developer*
 
